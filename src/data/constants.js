@@ -1,12 +1,11 @@
 export const Bio = {
   name: "Shree Krishna Subedi",
-  
+
   roles: ["Front End Developer", "UI/UX Designer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/",
-  resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+  resume: "#",
   linkedin:
     "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshree-undefined-b59836284%2F%3Ffbclid%3DIwAR04fbaDX1eqYC0RvLeHuTLkhipRvrAix2-jwkxQd-EJgG_FQw2TXPA7JuE&h=AT1YIdrnyQ5RwPU7U-pm3Vv5yVUMcClagCAU_m5Irz-sdaBgGG7nrRS8rDXg5urDppyHxPSEbVwJq67s7XrX6fU029lIypeG9Ipee7_4fzBFtwuZOEiWPHXKQhzECAz836kW00vLOW50pw",
   twitter: "#",
